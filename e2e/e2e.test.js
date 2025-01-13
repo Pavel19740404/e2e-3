@@ -10,7 +10,7 @@ describe("Тестирование взаимодействия с формой 
   beforeAll(async () => {
     jest.setTimeout(20000); // Устанавливаем таймаут для всех тестов в этом блоке
     browser = await puppeteer.launch({
-      headless: true,
+      headless: false,
       slowMo: 100,
       devtools: true,
       executablePath: executablePath(), // Указываем путь к исполняемому файлу браузера
