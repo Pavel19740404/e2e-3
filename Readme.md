@@ -1,7 +1,7 @@
-# AHJ_testing
+# E2E-3
 
 ## Описание Проверка валидности банковских карт
 
-[![Build status](https://ci.appveyor.com/api/projects/status/1xfsmbhn0lfay7la?svg=true)](https://ci.appveyor.com/project/CoolPaK/ahj-testing)
+![CI](https://github.com/Pavel19740404/e2e-3/actions/workflows/web.yml/badge.svg)
 
-[Github Pages](https://coolpak.github.io/ahj_testing/)
+
